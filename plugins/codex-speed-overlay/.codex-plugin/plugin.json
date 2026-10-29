@@ -1,0 +1,6 @@
+{
+  "name": "codex-speed-overlay",
+  "version": "1.0.1",
+  "description": "Windows 本地会话吞吐悬浮窗：会话开始或恢复时异步启动，读取本机日志，无需 API 或额外模型请求。",
+  "hooks": "./hooks/hooks.json"
+}

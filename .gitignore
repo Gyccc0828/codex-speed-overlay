@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+runtime-path.txt
+*.jsonl
+auth.json
+.env
+*.log
+dist/
+.pytest_cache/

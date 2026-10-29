@@ -1,0 +1,12 @@
+{
+  "name": "speed-overlay-local",
+  "interface": {"displayName": "本地速度悬浮窗"},
+  "plugins": [
+    {
+      "name": "codex-speed-overlay",
+      "source": {"source": "local", "path": "./plugins/codex-speed-overlay"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+      "category": "Productivity"
+    }
+  ]
+}
